@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Ojha</h1>
-<h3 align="center">A passionate full stack developer from India..</h3>
+<h3 align="center">🎓 Aspiring Computer Science Student | 💻 Frontend Developer | 📚 Passionate Learner.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushojhabxr&label=Profile%20views&color=0e75b6&style=flat" alt="ayushojhabxr" /> </p>
 
-- 🌱 I’m currently learning **React.js , Node.js**
+🌟 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ayushojhabxr](https://github.com/Ayushojhabxr)
+- 🏫 Currently Studying: Btech at Dr.Apj Abdul Kalam Technical University.
+- 🌱 Learning: Exploring advanced topics in [ "React.js" and "Node.js"].
+- 💡 Interests: [ "Web Development and Competitive Programming"].
+-🌍 Goals: To contribute to impactful projects and continuously improve my skills.
 
 - 📫 How to reach me **ayushojha381@gmail.com**
 

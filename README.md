@@ -8,10 +8,8 @@
 
 - 🏫 Currently Studying: Btech at Dr.Apj Abdul Kalam Technical University.
 - 🌱 Learning: Exploring advanced topics in [ "React.js" and "Node.js"].
-- 💡 Interests: [ "Web Development and Competitive Programming"].        
--🌍 Goals: To contribute to impactful projects and continuously improve my skills.
-
-- 📫 How to reach me **ayushojha381@gmail.com**
+- 💡 Interests: [ "Web Development and Competitive Programming"].     
+- 🌍 Goals: To contribute to impactful projects and continuously improve my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=ayushojhabxr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayushojhabxr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-ojha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-ojha-977945253/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](https://www.leetcode.com/ayush__ojha)
 
 </div>

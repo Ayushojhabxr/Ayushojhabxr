@@ -20,7 +20,7 @@ const ayush = {
     education: "B.Tech - Dr. APJ Abdul Kalam Technical University",
     specialization: ["PERN Stack", "MERN Stack", "Full Stack Development"],
     currentlyWorking: true,
-    passions: ["Problem Solving", "System Design", "Clean Code"],
+    passions: ["Problem Solving", "Innovations", "Clean Code"],
     goals: "Building scalable applications that make a difference"
 };
 ```

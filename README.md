@@ -1,29 +1,109 @@
-<h1 align="center">Hi 👋, I'm Ayush Ojha</h1>
-<h3 align="center">🎓 Aspiring Computer Science Student | 💻 Frontend Developer | 📚 Passionate Learner.</h3>
+# Hi there! 👋 I'm Ayush Ojha
 
+## 🚀 Full Stack Software Engineer | PERN & MERN Stack Developer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushojhabxr&label=Profile%20views&color=0e75b6&style=flat" alt="ayushojhabxr" /> </p>
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=ayushojhabxr&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayushojhabxr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayush-ojha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](https://www.leetcode.com/ayush__ojha)
 
-🌟 About Me
+</div>
 
-- 🏫 Currently Studying: Btech at Dr.Apj Abdul Kalam Technical University.
-- 🌱 Learning: Exploring advanced topics in [ "React.js" and "Node.js"].
-- 💡 Interests: [ "Web Development and Competitive Programming"].     
-- 🌍 Goals: To contribute to impactful projects and continuously improve my skills.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush ojha" height="30" width="40" /></a>
-<a href="https://fb.com/ayush ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush ojha" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush.___.ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.___.ojha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush__ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush__ojha" height="30" width="40" /></a>
-</p>
+### 💼 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```javascript
+const ayush = {
+    currentRole: "Full Stack Software Engineer",
+    education: "B.Tech - Dr. APJ Abdul Kalam Technical University",
+    specialization: ["PERN Stack", "MERN Stack", "Full Stack Development"],
+    currentlyWorking: true,
+    passions: ["Problem Solving", "System Design", "Clean Code"],
+    goals: "Building scalable applications that make a difference"
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushojhabxr&show_icons=true&locale=en&layout=compact" alt="ayushojhabxr" /></p>
+🔧 **Currently Building:** Enterprise-grade applications using modern web technologies  
+🌱 **Learning:** Advanced System Design, Microservices Architecture, and Cloud Technologies  
+💡 **Focus Areas:** Performance Optimization, Scalable Backend Solutions, and User Experience  
+🎯 **Mission:** Delivering high-quality software solutions in professional environments
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushojhabxr&show_icons=true&locale=en" alt="ayushojhabxr" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushojhabxr&" alt="ayushojhabxr" /></p>
+### 🛠️ Tech Stack
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushojhabxr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushojhabxr&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushojhabxr&theme=tokyonight" alt="ayushojhabxr" />
+</div>
+
+---
+
+### 🏆 Professional Highlights
+
+- 💼 **Professional Experience:** Currently working as a Full Stack Software Engineer
+- 🏗️ **Architecture Expertise:** PERN (PostgreSQL, Express, React, Node.js) & MERN (MongoDB, Express, React, Node.js) stacks
+- 📈 **Performance Focus:** Optimizing applications for scalability and user experience
+- 🤝 **Team Collaboration:** Experience working in agile development environments
+- 🎯 **Problem Solving:** Strong algorithmic thinking with active LeetCode practice
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-ojha)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayush.___.ojha)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ayush__ojha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushojha@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;PERN+%26+MERN+Stack+Developer;Always+learning+new+technologies;Building+scalable+solutions" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/ayushojhabxr">ayushojhabxr</a> | Building the future, one commit at a time</i>
+</div>
